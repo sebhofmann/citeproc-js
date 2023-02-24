@@ -1,7 +1,7 @@
 // demo.js
 // for citeproc-js CSL citation formatter
 
-var styleID = "apa";
+var styleID = "apa-cv";
 
 // Get the citations that we are supposed to render, in the CSL-json format
 var xhr = new XMLHttpRequest();
